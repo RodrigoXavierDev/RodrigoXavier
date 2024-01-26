@@ -1,4 +1,4 @@
-<h1 align="center">oi 👋, me chamo Rodrigo Xavier</h1>
+<h1 align="center">Oi 👋, me chamo Rodrigo Xavier</h1>
 <h3 align="center">Desenvolvedor Junior Full-Stack</h3>
 
 - 🌱 No momento estou aprendendo **Javascript**
